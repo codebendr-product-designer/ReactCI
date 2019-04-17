@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Continuous Deployment
+            Continuous Deployment (updated)
           </a>
         </header>
       </div>
